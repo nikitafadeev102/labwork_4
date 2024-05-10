@@ -1,0 +1,6 @@
+h2:last-of-type {
+	color: red;
+}
+p:first-of-type {
+	color: red;
+}

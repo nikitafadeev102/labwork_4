@@ -1,0 +1,30 @@
+№1
+
+Дан следующий код:
+
+<ul>
+	<li>text <i>italic</i></li>
+	<li>text <i>italic</i></li>
+	<li>text <i>italic</i></li>
+	<li>text <i>italic</i></li>
+</ul>
+
+<p>
+	<li>paragraph text <i>italic</i></li>
+</p>
+<p>
+	<li>paragraph text <i>italic</i></li>
+</p>
+Покрасьте в красный цвет курсив из тегов ul, а в зеленый цвет - курсив из тегов p.
+
+№2
+
+Дан следующий код:
+
+<p>
+	paragraph text <b><i>bold italic</i></b>
+</p>
+<p>
+	paragraph text <i>italic</i>
+</p>
+Покрасьте в красный цвет курсив, находящийся внутри тега b, который в свою очередь находится внутри тега p.
